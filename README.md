@@ -29,3 +29,16 @@
 11.启动本源码中的gobook.sh
 
 12.浏览器使用localhost:9000/9001打开本地书籍
+
+# go入门步骤
+### 30分钟熟悉go基本语法
+http://www.runoob.com/go/go-tutorial.html
+### 熟悉go基本教程
+https://tour.golang.org/welcome/1
+### 高效实战go编程
+https://golang.org/doc/effective_go.html
+### go代码评审
+https://github.com/golang/go/wiki/CodeReviewComments
+### go圣经
+
+### go高级编程
