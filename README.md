@@ -1,8 +1,8 @@
 # 部署本地go语言书籍
-### go语言圣经
+### go高级编程
 地址：
 [https://github.com/chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
-### go高级编程
+### go语言圣经
 地址：
 [https://github.com/gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com)
 ## 教程
